@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hanming497/project-4-assessment.git/static/css/main.06d45bc9.css",
+    "main.js": "/hanming497/project-4-assessment.git/static/js/main.74b7c177.js",
+    "static/js/787.72170ad4.chunk.js": "/hanming497/project-4-assessment.git/static/js/787.72170ad4.chunk.js",
+    "index.html": "/hanming497/project-4-assessment.git/index.html",
+    "main.06d45bc9.css.map": "/hanming497/project-4-assessment.git/static/css/main.06d45bc9.css.map",
+    "main.74b7c177.js.map": "/hanming497/project-4-assessment.git/static/js/main.74b7c177.js.map",
+    "787.72170ad4.chunk.js.map": "/hanming497/project-4-assessment.git/static/js/787.72170ad4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d45bc9.css",
+    "static/js/main.74b7c177.js"
+  ]
+}
